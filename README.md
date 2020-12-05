@@ -1,3 +1,5 @@
+# Shiny App for visualizing Statistics on Income Insecurity.
+_Jesús Estévez-Sánchez, 05 December 2020_
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
