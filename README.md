@@ -5,7 +5,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 This repository is based on [Ariane Aumaitre](https://github.com/aaumaitre/eurostat) repo  where she 
-explains how to build a Shiny App with Eurostat data.
+explains how to build a Shiny App with Eurostat data. You can check the Shiny App [here](https://jesusestevez.shinyapps.io/income_insecurity/)
 
 First, we have to obtain the data from the [Eurostat](https://ec.europa.eu/eurostat/data/database) database. In this case,
 we are using the statistics about Income Insecurity which Eurostat measures as the Labour transitions by employment status.
